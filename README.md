@@ -25,7 +25,7 @@
 ## 运行
 
 ```bash
-pip install openpyxl matplotlib
+pip install matplotlib
 python scripts/make_figures.py
 ```
 
@@ -34,4 +34,3 @@ python scripts/make_figures.py
 ## 口径声明
 
 只使用一次性全量生成的干净底子和离线实验；按平台分数挑选答案得到的版本不纳入结论。
-2026年十一月四号学习ai
